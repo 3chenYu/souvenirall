@@ -3,6 +3,30 @@ import HelloWorld from "./components/HelloWorld.vue";
 import TheWelcome from "./components/TheWelcome.vue";
 </script>
 
-<template></template>
+<template>
+  <!-- <div class="stt" v-for="item in 6">asdljaksdjkajdkajdksjdlajdkajlsdjalk</div> -->
+  <!-- 
+  <van-image
+    width="100vw"
+    height="100vw"
+    class="img"
+    src="https://images.pexels.com/photos/7841717/pexels-photo-7841717.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+  /> -->
+</template>
 
-<style scoped></style>
+<style scoped>
+.stt {
+  width: 50px;
+  height: 500px;
+  background: rgba(0, 0, 0, 0.4);
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 30px;
+  word-wrap: break-word;
+}
+.img {
+  width: 100vh;
+  height: 100vh;
+  background-size: cover;
+}
+</style>
