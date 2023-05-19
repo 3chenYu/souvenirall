@@ -5,13 +5,13 @@ import TheWelcome from "./components/TheWelcome.vue";
 
 <template>
   <!-- <div class="stt" v-for="item in 6">asdljaksdjkajdkajdksjdlajdkajlsdjalk</div> -->
-  <!-- 
+
   <van-image
     width="100vw"
-    height="100vw"
+    height="100vh"
     class="img"
     src="https://images.pexels.com/photos/7841717/pexels-photo-7841717.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-  /> -->
+  />
 </template>
 
 <style scoped>
@@ -27,6 +27,6 @@ import TheWelcome from "./components/TheWelcome.vue";
 .img {
   width: 100vh;
   height: 100vh;
-  background-size: cover;
+  /* background-size: cover; */
 }
 </style>
