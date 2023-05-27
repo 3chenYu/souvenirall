@@ -12,6 +12,7 @@ import TheWelcome from "./components/TheWelcome.vue";
     class="img"
     src="https://images.pexels.com/photos/7841717/pexels-photo-7841717.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
   />
+  三大袋都还好大地哦按花地哦啊花地哦啊活动卡交警
 </template>
 
 <style scoped>
